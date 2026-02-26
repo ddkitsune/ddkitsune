@@ -74,7 +74,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Deivyg4&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Deivyg4&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ddkitsune&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
@@ -89,7 +89,7 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Deivyg4&theme=algolia&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ddkitsune&theme=algolia&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
@@ -101,7 +101,7 @@
 <p></p>
 
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=Deivyg4k&style=plastic&color=orange" alt = "Profile Views"/>
+	<img src = "https://komarev.com/ghpvc/?username=ddkitsune&style=plastic&color=orange" alt = "Profile Views"/>
 </p>
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
