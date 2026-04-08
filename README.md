@@ -15,8 +15,18 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ddkitsune&theme=dark&show_icons=true&count_private=true" alt="Stats ddkitsune" />
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddkitsune&theme=dark&hide_border=false" alt="GitHub Streak ddkitsune" />
+  <br />
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ddkitsune&theme=dark&hide_border=false&langs_count=8" alt="Top Langs" />
+</p>
+
+---
+
+## 🏆 Trofeos y reconocimientos
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ddkitsune&theme=algolia&row=1&column=7&margin-w=5&no-bg=true" alt="Trophies" />
 </p>
 
 ---
@@ -39,7 +49,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>Frameworks Backend</b></td>
+    <td><b>Backend Frameworks</b></td>
     <td>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask"/>
@@ -83,14 +93,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 🏆 Trofeos y Reconocimientos
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ddkitsune&theme=algolia&row=1&column=7&margin-w=5&no-bg=true" alt="TROPHIES" />
-</p>
 
 ---
 
