@@ -1,7 +1,9 @@
 <!-- Perfil GitHub de ddkitsune -->
 
-<h1 align="center">Hola 👋, soy Deivy Gonzalez</h1>
-<p align="center">
+<div align="center">
+
+<h1>Hola 👋, soy Deivy Gonzalez</h1>
+<p>
   <b>
     Apasionado desarrollador frontend y entusiasta de la tecnología.<br>
     Experiencia en mantenimiento de equipos, infraestructura, ventas y desarrollo de software.<br>
@@ -11,20 +13,17 @@
 
 ---
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddkitsune&theme=dark&hide_border=false" alt="GitHub Streak ddkitsune" />
-  <br />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ddkitsune&theme=dark&hide_border=false&langs_count=8" alt="Top Langs" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ddkitsune&theme=dark&hide_border=false" alt="GitHub Streak ddkitsune" />
+<br />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ddkitsune&theme=dark&hide_border=false&langs_count=8" alt="Top Langs" />
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,anaconda,flask,php,git,github,java,jquery,linux,postgres,py,vscode,wordpress" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,html,css,anaconda,flask,php,git,github,java,jquery,linux,postgres,py,vscode,wordpress" />
 
-<table align="center">
+<table>
   <tr>
     <td><b>Desarrollo Web</b></td>
     <td>
@@ -85,15 +84,12 @@
 
 ## 🙌 Contacto
 
-<p align="center">
-  ¿Quieres hablar sobre proyectos, tecnología o colaborar? ¡Envíame un mensaje!
-</p>
+¿Quieres hablar sobre proyectos, tecnología o colaborar? ¡Envíame un mensaje!
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ddkitsune&style=plastic&color=orange" alt = "Profile Views"/>
-</p>
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=ddkitsune&style=plastic&color=orange" alt = "Profile Views"/>
+<br/>
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
