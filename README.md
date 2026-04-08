@@ -13,9 +13,8 @@
 
 ## 📊 GitHub Stats
 
-![Stats de ddkitsune](https://github-readme-stats.vercel.app/api?username=ddkitsune&show_icons=true&theme=dracula)
-
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ddkitsune&theme=dark&show_icons=true&count_private=true" alt="Stats ddkitsune" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddkitsune&theme=dark&hide_border=false" alt="GitHub Streak ddkitsune" />
   <br />
@@ -26,7 +25,9 @@
 
 ## 🏆 Trofeos y reconocimientos
 
-![Trophies de ddkitsune](https://github-profile-trophy.vercel.app/?username=ddkitsune&theme=dracula)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ddkitsune&theme=algolia&row=1&column=7&margin-w=5&no-bg=true" alt="Trophies" />
+</p>
 
 ---
 
