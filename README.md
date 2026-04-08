@@ -6,13 +6,13 @@
 <p>A passionate frontend developer from </p>
 <h2>🚀 Languages and Tools I Use</h2>
 
-<!---
+
 <p align="center">
  <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=js,html,css,anaconda,flask,php,git,github,java,jquery,linux,postgres,py,vscode,wordpress" />
  </a>
 </p>
--->
+
 
 <p></p>
 
@@ -59,11 +59,11 @@
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" />
 </kbd>
-<!--   <kbd style="background-color: #f0f0f0; padding: 10px; margin: 5px; border-radius: 5px; display: inline-block;">
+  <kbd style="background-color: #f0f0f0; padding: 10px; margin: 5px; border-radius: 5px; display: inline-block;">
    <kbd style="background-color: transparent; border: none; padding: 0;">Otros</kbd>
    <br><br>
    <span>Inglés</span>
- </kbd> -->
+
 </p>
 
 <p></p>
@@ -83,7 +83,7 @@
 
 <td width="50%" align="center">
 
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Deivyg4&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ddkitsune&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
 </td>
 </tr>
